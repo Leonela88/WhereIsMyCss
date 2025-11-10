@@ -1,0 +1,20 @@
+body{
+    background-color: #e3e4e5;
+}
+
+.card{
+    background-color: white;
+    align-content: center;
+    border-radius: 5%;
+    width: 400px;
+    margin : 10% 30%;
+}
+
+h2{
+    text-align: center;
+}
+
+.subtitle{
+    text-align: center;
+}
+
